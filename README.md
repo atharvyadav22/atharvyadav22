@@ -13,21 +13,29 @@
 
 ---
 
-## 🚀 Skills & Tools
+## 🚀 Skills & Tools  
 
-<div style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <img src="https://github.com/devicons/devicon/raw/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/raw/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/raw/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/raw/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/raw/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/raw/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
+<div style="display: flex; flex-wrap: wrap; gap: 20px;">
+  
+### **Languages**  
+<img src="https://github.com/devicons/devicon/raw/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="Kotlin" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/raw/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/raw/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
+  
+### **Frameworks and Libraries**  
+<img src="https://github.com/devicons/devicon/raw/master/icons/android/android-original-wordmark.svg" alt="Android" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/>
+  
+### **Tools**  
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/>
+  
+### **Database**  
+<img src="https://github.com/devicons/devicon/raw/master/icons/sqlite/sqlite-original.svg" alt="SQLite" width="40" height="40"/>
+  
 </div>
 
 
