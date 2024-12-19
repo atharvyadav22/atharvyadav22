@@ -46,7 +46,6 @@
 <div align="center">
   <a href="https://github.com/atharvyadav22">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=atharvyadav22&show_icons=true&locale=en&theme=radical&hide=prs,issues" />
-    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=atharvyadav22&theme=radical&hide_border=true" />
   </a>
 </div>
 
