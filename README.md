@@ -49,13 +49,20 @@
   </a>
 </div>
 
+<div align="center">
+  <a>
+    <img width="390" src="https://streak-stats.demolab.com/?user=atharvyadav22&count_private=true&theme=react&border_radius=10" alt="streak stats" />
+  </a>
+</div>
+
+
 ---
 
 ## 🧩 LeetCode Stats  
 
 <div align="center">
   <a href="https://leetcode.com/u/atharvyadav22/">
-    <img src="https://leetcard.jacoblin.cool/atharvyadav22?theme=dark&border=1&submissions=1" alt="LeetCode Submissions" />
+    <img  align=top flex-grow=1 src="https://leetcard.jacoblin.cool/atharvyadav22?theme=dark&ext=heatmap" />
   </a>
 </div>
 
