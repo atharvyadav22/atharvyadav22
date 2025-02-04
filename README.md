@@ -9,7 +9,7 @@
 
 ## 📝 Bio
 
-<h3> Hey there! 🚀 I'm Atharv, a passionate Android Developer crafting elegant and efficient apps with a sprinkle of creativity and loads of caffeine! Always learning, always building. Let’s create magic with code! </h3>
+<h3> Hey there! 🚀 I'm Atharv, a passionate Android Developer crafting elegant and efficient apps with a sprinkle of creativity and loads of caffeine! Always learning, always building. Let’s create magic with code </h3>
 
 ---
 
