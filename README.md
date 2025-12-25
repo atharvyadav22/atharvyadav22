@@ -28,10 +28,18 @@ Android · Compose Multiplatform · Spring Boot
 <!-- 🔗 LINKS + RESUME -->
 <!-- ========================= -->
 <p align="center">
-  <a href="https://github.com/atharvyadav22"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/atharv-yadav-177bb72aa"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>
-  <a href="https://leetcode.com/u/atharvyadav22/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black"/></a>
-  <a href="https://drive.google.com/file/d/1jZfx4_hSdSXJcDWz602dPEbhoSfRVH26/view?usp=drive_link"><img src="https://img.shields.io/badge/Resume-Download-00C853?style=flat&logo=googledrive&logoColor=white"/></a>
+  <a href="https://github.com/atharvyadav22">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://linkedin.com/in/atharv-yadav-177bb72aa">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://leetcode.com/u/atharvyadav22/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black"/>
+  </a>
+  <a href="https://drive.google.com/file/d/1jZfx4_hSdSXJcDWz602dPEbhoSfRVH26/view">
+    <img src="https://img.shields.io/badge/Resume-Download-00C853?style=flat&logo=googledrive&logoColor=white"/>
+  </a>
 </p>
 
 ---
@@ -41,12 +49,11 @@ Android · Compose Multiplatform · Spring Boot
 I design and build **multiplatform applications and backend services** with an emphasis on
 clean architecture, maintainability, and real-world usability.
 
-- 📱 Develop apps using **Android & Compose Multiplatform** targeting Android, iOS, Web, and Desktop
-- ⚙️ Build and maintain **Spring Boot backends** with clean APIs and scalable design
-- 🌍 Contribute to **open-source projects**, focusing on meaningful fixes and improvements
-- 🧠 Comfortable understanding and improving **large, existing codebases**
-- 📌 Value **clarity, correctness, and long-term maintainability** over short-term hacks
-
+- 📱 Android & **Compose Multiplatform** (Android · iOS · Web · Desktop)
+- ⚙️ **Spring Boot** backend development with clean, scalable APIs
+- 🌍 Active **open-source contributor**
+- 🧠 Comfortable working with **large, existing codebases**
+- 📌 Prefer **merge-worthy, maintainable code** over quick hacks
 
 ---
 
@@ -57,70 +64,58 @@ clean architecture, maintainability, and real-world usability.
   <img src="https://skillicons.dev/icons?i=kotlin" title="Kotlin"/>
   <img src="https://skillicons.dev/icons?i=androidstudio" title="Android Development"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jetpackcompose/jetpackcompose-original.svg" width="48" title="Compose Multiplatform"/>
-  <img src="https://skillicons.dev/icons?i=gradle" title="Gradle Build System"/>
+  <img src="https://skillicons.dev/icons?i=gradle" title="Gradle"/>
 </p>
-
 
 ### ⚙️ Backend
 <p>
   <img src="https://skillicons.dev/icons?i=java" title="Java"/>
   <img src="https://skillicons.dev/icons?i=spring" title="Spring Boot"/>
-  <img src="https://skillicons.dev/icons?i=aws" title="Amazon Web Services (AWS)"/>
-  <img src="https://skillicons.dev/icons?i=docker" title="Docker & Containers"/>
-  <img src="https://skillicons.dev/icons?i=mysql" title="MySQL Database"/>
+  <img src="https://skillicons.dev/icons?i=aws" title="AWS"/>
+  <img src="https://skillicons.dev/icons?i=docker" title="Docker"/>
+  <img src="https://skillicons.dev/icons?i=mysql" title="MySQL"/>
   <img src="https://skillicons.dev/icons?i=sqlite" title="SQLite"/>
 </p>
 
-
 ### 🧰 Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=git" title="Git Version Control"/>
+  <img src="https://skillicons.dev/icons?i=git" title="Git"/>
   <img src="https://skillicons.dev/icons?i=github" title="GitHub"/>
-  <img src="https://skillicons.dev/icons?i=postman" title="Postman API Testing"/>
+  <img src="https://skillicons.dev/icons?i=postman" title="Postman"/>
   <img src="https://skillicons.dev/icons?i=firebase" title="Firebase"/>
-  <img src="https://skillicons.dev/icons?i=figma" title="Figma UI/UX Design"/>
+  <img src="https://skillicons.dev/icons?i=figma" title="Figma"/>
 </p>
-
 
 ---
 
 ## 🧠 LeetCode
-
 <p align="center">
   <img
     src="https://leetcard.jacoblin.cool/atharvyadav22?theme=dark&font=JetBrains%20Mono&ext=heatmap"
-    title="LeetCode Stats & Consistency"
+    title="LeetCode Stats"
   />
 </p>
 
 ---
 
 ## 📊 GitHub Stats
-
 <p align="center">
-  <!-- Main GitHub Stats -->
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=atharvyadav22&show_icons=true&theme=radical" />
-
-  <!-- Streak (optional) -->
-  <img height="165" src="https://streak-stats.demolab.com?user=atharvyadav22&theme=radical" />
-</p>
-
-## 📈 Activity & Highlights
-
-<p align="center">
-  
-  <!-- Contribution Snake -->
-  <img src="https://raw.githubusercontent.com/atharvyadav22/atharvyadav22/output/github-contribution-grid-snake.svg" />
-
-  <!-- Trophies -->
-  <img src="https://github-profile-trophy.vercel.app/?username=atharvyadav22&theme=darkhub&row=1&column=6" />
+  <img height="165"
+       src="https://github-readme-stats.vercel.app/api?username=atharvyadav22&show_icons=true&theme=radical" />
+  <img height="165"
+       src="https://streak-stats.demolab.com?user=atharvyadav22&theme=radical" />
 </p>
 
 ---
 
+## 📈 Activity & Highlights
+<p align="center">
+  <img src="https://raw.githubusercontent.com/atharvyadav22/atharvyadav22/output/github-contribution-grid-snake-dark.svg" />
+</p>
 
-
-
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=atharvyadav22&theme=onedark&no-frame=true&margin-w=8" />
+</p>
 
 ---
 
