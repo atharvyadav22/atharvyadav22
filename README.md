@@ -1,79 +1,131 @@
-![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
+<!-- ================================================== -->
+<!-- 🌟 HERO BANNER -->
+<!-- ================================================== -->
+<img src="https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif" />
 
----
+<!-- ========================= -->
+<!-- 👤 NAME -->
+<!-- ========================= -->
+<h1 align="center">Atharv Yadav</h1>
 
-<h1 align="center">Hi 👋, I'm ATHARV YADAV</h1>
-<h3 align="center">A Passionate Full Stack Android Developer</h3>
+<!-- ========================= -->
+<!-- 🎯 CORE STACK -->
+<!-- ========================= -->
+<h3 align="center">
+Android · Compose Multiplatform · Spring Boot
+</h3>
 
----
-
-## 📝 Bio
-
-<h3> Hey there! 🚀 I'm Atharv, a passionate Android Developer crafting elegant and efficient apps with a sprinkle of creativity and loads of caffeine! Always learning, always building. Let’s create magic with code </h3>
-
----
-
-## 🚀 Skills & Tools  
-
-<div style="display: flex; flex-wrap: wrap; gap: 20px;">
-  
-### **Languages**  
-<img src="https://github.com/devicons/devicon/raw/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="Kotlin" width="40" height="40"/>
-<img src="https://github.com/devicons/devicon/raw/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-<img src="https://github.com/devicons/devicon/raw/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
-  
-### **Frameworks and Libraries**  
-<img src="https://github.com/devicons/devicon/raw/master/icons/android/android-original-wordmark.svg" alt="Android" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/>
-  
-### **Tools**  
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/>
-  
-### **Database**  
-<img src="https://github.com/devicons/devicon/raw/master/icons/sqlite/sqlite-original.svg" alt="SQLite" width="40" height="40"/>
-  
-</div>
-
-
----
-
-## 📊 GitHub Stats  
-
-<div align="center">
-  <a href="https://github.com/atharvyadav22">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=atharvyadav22&show_icons=true&locale=en&theme=radical&hide=prs,issues" />
-  </a>
-</div>
-
-<div align="center">
-  <a>
-    <img width="390" src="https://streak-stats.demolab.com/?user=atharvyadav22&count_private=true&theme=react&border_radius=10" alt="streak stats" />
-  </a>
-</div>
-
-
----
-
-## 🧩 LeetCode Stats  
-
-<div align="center">
-  <a href="https://leetcode.com/u/atharvyadav22/">
-    <img  align=top flex-grow=1 src="https://leetcard.jacoblin.cool/atharvyadav22?theme=dark&ext=heatmap" />
-  </a>
-</div>
-
----
-
-## 🤝 Connect With Me  
-
+<!-- ========================= -->
+<!-- ✨ FAST TYPING ANIMATION -->
+<!-- ========================= -->
 <p align="center">
-  <a href="https://linkedin.com/in/atharv-yadav-177bb72aa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="atharv-yadav-177bb72aa" height="30" width="40" /></a>
-  <a href="https://instagram.com/atharv_yadav_22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="atharv_yadav_22" height="30" width="40" /></a>
-  <a href="mailto:dev.atharvyadav@gmail.com"><img align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="dev.atharvyadav@gmail.com" height="30" width="40" /></a>
+  <img
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=1600&pause=300&color=58A6FF&center=true&vCenter=true&width=820&lines=Compose+Multiplatform+%7C+Spring+Boot;Android+%7C+iOS+%7C+Web+%7C+Desktop;Open+Source+Contributor"
+  />
+</p>
+
+<!-- ========================= -->
+<!-- 🔗 LINKS + RESUME -->
+<!-- ========================= -->
+<p align="center">
+  <a href="https://github.com/atharvyadav22"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/atharv-yadav-177bb72aa"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>
+  <a href="https://leetcode.com/u/atharvyadav22/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black"/></a>
+  <a href="https://drive.google.com/file/d/1jZfx4_hSdSXJcDWz602dPEbhoSfRVH26/view?usp=drive_link"><img src="https://img.shields.io/badge/Resume-Download-00C853?style=flat&logo=googledrive&logoColor=white"/></a>
 </p>
 
 ---
+
+## 👋 About Me
+
+I design and build **multiplatform applications and backend services** with an emphasis on
+clean architecture, maintainability, and real-world usability.
+
+- 📱 Develop apps using **Android & Compose Multiplatform** targeting Android, iOS, Web, and Desktop
+- ⚙️ Build and maintain **Spring Boot backends** with clean APIs and scalable design
+- 🌍 Contribute to **open-source projects**, focusing on meaningful fixes and improvements
+- 🧠 Comfortable understanding and improving **large, existing codebases**
+- 📌 Value **clarity, correctness, and long-term maintainability** over short-term hacks
+
+
+---
+
+## 🛠️ Skills
+
+### 📱 Android & Multiplatform
+<p>
+  <img src="https://skillicons.dev/icons?i=kotlin" title="Kotlin"/>
+  <img src="https://skillicons.dev/icons?i=androidstudio" title="Android Development"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jetpackcompose/jetpackcompose-original.svg" width="48" title="Compose Multiplatform"/>
+  <img src="https://skillicons.dev/icons?i=gradle" title="Gradle Build System"/>
+</p>
+
+
+### ⚙️ Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=java" title="Java"/>
+  <img src="https://skillicons.dev/icons?i=spring" title="Spring Boot"/>
+  <img src="https://skillicons.dev/icons?i=aws" title="Amazon Web Services (AWS)"/>
+  <img src="https://skillicons.dev/icons?i=docker" title="Docker & Containers"/>
+  <img src="https://skillicons.dev/icons?i=mysql" title="MySQL Database"/>
+  <img src="https://skillicons.dev/icons?i=sqlite" title="SQLite"/>
+</p>
+
+
+### 🧰 Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=git" title="Git Version Control"/>
+  <img src="https://skillicons.dev/icons?i=github" title="GitHub"/>
+  <img src="https://skillicons.dev/icons?i=postman" title="Postman API Testing"/>
+  <img src="https://skillicons.dev/icons?i=firebase" title="Firebase"/>
+  <img src="https://skillicons.dev/icons?i=figma" title="Figma UI/UX Design"/>
+</p>
+
+
+---
+
+## 🧠 LeetCode
+
+<p align="center">
+  <img
+    src="https://leetcard.jacoblin.cool/atharvyadav22?theme=dark&font=JetBrains%20Mono&ext=heatmap"
+    title="LeetCode Stats & Consistency"
+  />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <!-- Main GitHub Stats -->
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=atharvyadav22&show_icons=true&theme=radical" />
+
+  <!-- Streak (optional) -->
+  <img height="165" src="https://streak-stats.demolab.com?user=atharvyadav22&theme=radical" />
+</p>
+
+## 📈 Activity & Highlights
+
+<p align="center">
+  
+  <!-- Contribution Snake -->
+  <img src="https://raw.githubusercontent.com/atharvyadav22/atharvyadav22/output/github-contribution-grid-snake.svg" />
+
+  <!-- Trophies -->
+  <img src="https://github-profile-trophy.vercel.app/?username=atharvyadav22&theme=darkhub&row=1&column=6" />
+</p>
+
+---
+
+
+
+
+
+---
+
+<p align="center">
+  <img
+    src="https://komarev.com/ghpvc/?username=atharvyadav22&label=Profile%20Views&color=blueviolet"
+  />
+</p>
