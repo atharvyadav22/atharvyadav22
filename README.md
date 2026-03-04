@@ -12,7 +12,7 @@
 <!-- 🎯 CORE STACK -->
 <!-- ========================= -->
 <h3 align="center">
-Android · Compose Multiplatform · Spring Boot
+Compose Multiplatform · Spring Boot 
 </h3>
 
 <!-- ========================= -->
@@ -37,33 +37,32 @@ Android · Compose Multiplatform · Spring Boot
   <a href="https://leetcode.com/u/atharvyadav22/">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black"/>
   </a>
-  <a href="https://drive.google.com/file/d/1jZfx4_hSdSXJcDWz602dPEbhoSfRVH26/view">
+  <a href="https://drive.google.com/file/d/1rPTjhCQ-7OnvDXPzj-mp1Nb0d12Ds83e/view?usp=drive_link">
     <img src="https://img.shields.io/badge/Resume-Download-00C853?style=flat&logo=googledrive&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-## 👋 About Me
+# 👋 About Me
 
-I design and build **multiplatform applications and backend services** with an emphasis on
-clean architecture, maintainability, and real-world usability.
+I build **multiplatform applications and backend systems** focused on scalability, clean architecture, and real-world usability.
 
-- 📱 Android & **Compose Multiplatform** (Android · iOS · Web · Desktop)
-- ⚙️ **Spring Boot** backend development with clean, scalable APIs
-- 🌍 Active **open-source contributor**
-- 🧠 Comfortable working with **large, existing codebases**
-- 📌 Prefer **merge-worthy, maintainable code** over quick hacks
+- 📱 Develop **Compose Multiplatform apps** targeting Android, iOS, Web and Desktop  
+- ⚙️ Build **Spring Boot backend services** with REST APIs, authentication and database systems  
+- 🐳 Containerize backend applications using **Docker** and deploy production services  
+- 🌍 Contribute to **open-source Android projects** and work with large production codebases  
+- 🧠 Strong focus on **maintainable, production-quality code**
 
 ---
 
-## 🛠️ Skills
+# 🛠️ Tech Stack
 
-### 📱 Android & Multiplatform
+### 📱 Multiplatform
 <p>
   <img src="https://skillicons.dev/icons?i=kotlin" title="Kotlin"/>
-  <img src="https://skillicons.dev/icons?i=androidstudio" title="Android Development"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jetpackcompose/jetpackcompose-original.svg" width="48" title="Compose Multiplatform"/>
+  <img src="https://skillicons.dev/icons?i=androidstudio" title="Android Studio"/>
   <img src="https://skillicons.dev/icons?i=gradle" title="Gradle"/>
 </p>
 
@@ -71,7 +70,6 @@ clean architecture, maintainability, and real-world usability.
 <p>
   <img src="https://skillicons.dev/icons?i=java" title="Java"/>
   <img src="https://skillicons.dev/icons?i=spring" title="Spring Boot"/>
-  <img src="https://skillicons.dev/icons?i=aws" title="AWS"/>
   <img src="https://skillicons.dev/icons?i=docker" title="Docker"/>
   <img src="https://skillicons.dev/icons?i=mysql" title="MySQL"/>
   <img src="https://skillicons.dev/icons?i=sqlite" title="SQLite"/>
@@ -88,17 +86,7 @@ clean architecture, maintainability, and real-world usability.
 
 ---
 
-## 🧠 LeetCode
-<p align="center">
-  <img
-    src="https://leetcard.jacoblin.cool/atharvyadav22?theme=dark&font=JetBrains%20Mono&ext=heatmap"
-    title="LeetCode Stats"
-  />
-</p>
-
----
-
-## 📊 GitHub Stats
+# 📊 GitHub Stats
 <p align="center">
   <img height="165"
        src="https://github-readme-stats.vercel.app/api?username=atharvyadav22&show_icons=true&theme=radical" />
@@ -108,7 +96,8 @@ clean architecture, maintainability, and real-world usability.
 
 ---
 
-## 📈 Activity & Highlights
+# 📈 Activity & Highlights
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/atharvyadav22/atharvyadav22/output/github-contribution-grid-snake-dark.svg" />
 </p>
@@ -120,7 +109,5 @@ clean architecture, maintainability, and real-world usability.
 ---
 
 <p align="center">
-  <img
-    src="https://komarev.com/ghpvc/?username=atharvyadav22&label=Profile%20Views&color=blueviolet"
-  />
+  <img src="https://komarev.com/ghpvc/?username=atharvyadav22&label=Profile%20Views&color=blueviolet"/>
 </p>
