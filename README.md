@@ -37,7 +37,7 @@ Compose Multiplatform · Spring Boot
   <a href="https://leetcode.com/u/atharvyadav22/">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black"/>
   </a>
-  <a href="https://drive.google.com/file/d/1rPTjhCQ-7OnvDXPzj-mp1Nb0d12Ds83e/view?usp=drive_link">
+  <a href="https://drive.google.com/file/d/1uXq8gLa8BS24arwuHVwy3J9prxi8uVhn/view?usp=sharing">
     <img src="https://img.shields.io/badge/Resume-Download-00C853?style=flat&logo=googledrive&logoColor=white"/>
   </a>
 </p>
