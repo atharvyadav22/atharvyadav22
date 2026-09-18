@@ -12,7 +12,7 @@
 <!-- 🎯 CORE STACK -->
 <!-- ========================= -->
 <h3 align="center">
-Compose Multiplatform · Spring Boot 
+Kotlin Multiplatform · Spring Boot · Reliability Engineering
 </h3>
 
 <!-- ========================= -->
@@ -20,7 +20,7 @@ Compose Multiplatform · Spring Boot
 <!-- ========================= -->
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=1600&pause=300&color=58A6FF&center=true&vCenter=true&width=820&lines=Compose+Multiplatform+%7C+Spring+Boot;Android+%7C+iOS+%7C+Web+%7C+Desktop;Open+Source+Contributor"
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=1600&pause=300&color=58A6FF&center=true&vCenter=true&width=820&lines=Kotlin+Multiplatform+%7C+Spring+Boot;Android+%7C+Backend+%7C+CI%2FCD;GSoC+2026+%40+Kiwix"
   />
 </p>
 
@@ -46,57 +46,90 @@ Compose Multiplatform · Spring Boot
 
 # 👋 About Me
 
-I build **multiplatform applications and backend systems** focused on scalability, clean architecture, and real-world usability.
+I build **Kotlin Multiplatform apps** and the **Spring Boot backends** behind them — currently doing reliability engineering for Android at scale through Google Summer of Code 2026.
 
-- 📱 Develop **Compose Multiplatform apps** targeting Android, iOS, Web and Desktop  
-- ⚙️ Build **Spring Boot backend services** with REST APIs, authentication and database systems  
-- 🐳 Containerize backend applications using **Docker** and deploy production services  
-- 🌍 Contribute to **open-source Android projects** and work with large production codebases  
-- 🧠 Strong focus on **maintainable, production-quality code**
+- 📱 Build **Kotlin Multiplatform** clients (Android, iOS, Desktop, Web) with **Jetpack Compose**
+- ⚙️ Design **Spring Boot** backends — REST APIs, JWT auth, layered architecture, PostgreSQL/MySQL
+- 🧪 Own **reliability engineering** at Kiwix Android (GSoC 2026): CI/CD pipelines, coverage, flaky-test elimination, performance benchmarking
+- 🐳 Containerize and ship services with **Docker** + **GitHub Actions CI/CD**
+- 🌍 Actively contribute to and maintain an **open-source Android codebase** with 1M+ installs
 
 ---
 
 # 🛠️ Tech Stack
 
-### 📱 Multiplatform
-<p>
-  <img src="https://skillicons.dev/icons?i=kotlin" title="Kotlin"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jetpackcompose/jetpackcompose-original.svg" width="48" title="Compose Multiplatform"/>
-  <img src="https://skillicons.dev/icons?i=androidstudio" title="Android Studio"/>
-  <img src="https://skillicons.dev/icons?i=gradle" title="Gradle"/>
-</p>
+### 📱 Multiplatform & Android
+<table>
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=kotlin" width="48"/><br><sub>Kotlin</sub></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jetpackcompose/jetpackcompose-original.svg" width="48"/><br><sub>Jetpack Compose</sub></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=androidstudio" width="48"/><br><sub>Android Studio</sub></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=gradle" width="48"/><br><sub>Gradle</sub></td>
+  </tr>
+</table>
+
+### 🧪 Testing \& Quality
+<table>
+  <tr>
+    <td align="center"><img src="https://img.shields.io/badge/-JUnit-25A162?style=flat&logo=junit5&logoColor=white"/><br><sub>JUnit</sub></td>
+    <td align="center"><img src="https://img.shields.io/badge/-Espresso-4285F4?style=flat"/><br><sub>Espresso</sub></td>
+    <td align="center"><img src="https://img.shields.io/badge/-Robolectric-6DB33F?style=flat"/><br><sub>Robolectric</sub></td>
+    <td align="center"><img src="https://img.shields.io/badge/-Compose%20UI%20Test-4285F4?style=flat"/><br><sub>Compose UI Testing</sub></td>
+    <td align="center"><img src="https://img.shields.io/badge/-Turbine-7F52FF?style=flat"/><br><sub>Turbine</sub></td>
+    <td align="center"><img src="https://img.shields.io/badge/-MockK-7F52FF?style=flat"/><br><sub>MockK</sub></td>
+    <td align="center"><img src="https://img.shields.io/badge/-Mockito-C5D9C8?style=flat"/><br><sub>Mockito</sub></td>
+    <td align="center"><img src="https://img.shields.io/badge/-JaCoCo-D22128?style=flat"/><br><sub>JaCoCo</sub></td>
+  </tr>
+</table>
 
 ### ⚙️ Backend
-<p>
-  <img src="https://skillicons.dev/icons?i=java" title="Java"/>
-  <img src="https://skillicons.dev/icons?i=spring" title="Spring Boot"/>
-  <img src="https://skillicons.dev/icons?i=docker" title="Docker"/>
-  <img src="https://skillicons.dev/icons?i=mysql" title="MySQL"/>
-  <img src="https://skillicons.dev/icons?i=sqlite" title="SQLite"/>
-</p>
+<table>
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=java" width="48"/><br><sub>Java</sub></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=spring" width="48"/><br><sub>Spring Boot</sub></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=hibernate" width="48"/><br><sub>Hibernate / JPA</sub></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=postgres" width="48"/><br><sub>PostgreSQL</sub></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=mysql" width="48"/><br><sub>MySQL</sub></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=redis" width="48"/><br><sub>Redis</sub></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=aws" width="48"/><br><sub>AWS</sub></td>
+  </tr>
+</table>
+
+### 🐳 DevOps \& Reliability
+<table>
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=docker" width="48"/><br><sub>Docker</sub></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=git" width="48"/><br><sub>Git</sub></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=github" width="48"/><br><sub>GitHub</sub></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=githubactions" width="48"/><br><sub>GitHub Actions</sub></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=maven" width="48"/><br><sub>Maven</sub></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=idea" width="48"/><br><sub>IntelliJ IDEA</sub></td>
+  </tr>
+</table>
 
 ### 🧰 Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=git" title="Git"/>
-  <img src="https://skillicons.dev/icons?i=github" title="GitHub"/>
-  <img src="https://skillicons.dev/icons?i=postman" title="Postman"/>
-  <img src="https://skillicons.dev/icons?i=firebase" title="Firebase"/>
-  <img src="https://skillicons.dev/icons?i=figma" title="Figma"/>
-</p>
+<table>
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=postman" width="48"/><br><sub>Postman</sub></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=firebase" width="48"/><br><sub>Firebase</sub></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=figma" width="48"/><br><sub>Figma</sub></td>
+  </tr>
+</table>
 
 ---
 
 # 📊 GitHub Stats
 <p align="center">
-  <img height="165"
-       src="https://github-readme-stats.vercel.app/api?username=atharvyadav22&show_icons=true&theme=radical" />
-  <img height="165"
-       src="https://streak-stats.demolab.com?user=atharvyadav22&theme=radical" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=atharvyadav22&show_icons=true&theme=radical" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atharvyadav22&layout=compact&theme=radical" />
+</p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=atharvyadav22&theme=radical" />
 </p>
 
 ---
 
-# 📈 Activity & Highlights
+# 📈 Activity
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/atharvyadav22/atharvyadav22/output/github-contribution-grid-snake-dark.svg" />
@@ -107,8 +140,6 @@ I build **multiplatform applications and backend systems** focused on scalabilit
 </p>
 
 ---
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=atharvyadav22&label=Profile%20Views&color=blueviolet"/>
 </p>
-..
