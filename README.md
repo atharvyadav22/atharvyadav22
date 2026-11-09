@@ -20,7 +20,7 @@ Kotlin Multiplatform · Spring Boot · Reliability Engineering
 <!-- ========================= -->
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=1600&pause=300&color=58A6FF&center=true&vCenter=true&width=820&lines=Kotlin+Multiplatform+%7C+Spring+Boot;Android+%7C+Backend+%7C+CI%2FCD;GSoC+2026+%40+Kiwix"
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=1600&pause=300&color=58A6FF&center=true&vCenter=true&width=820&lines=Kotlin+Multiplatform+%7C+Spring+Boot;Android+%7C+Backend+%7C+CI%2FCD;"
   />
 </p>
 
