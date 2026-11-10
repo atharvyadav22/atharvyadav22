@@ -28,9 +28,6 @@ Kotlin Multiplatform · Spring Boot · Reliability Engineering
 <!-- 🔗 LINKS + RESUME -->
 <!-- ========================= -->
 <p align="center">
-  <a href="https://github.com/atharvyadav22">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
-  </a>
   <a href="https://linkedin.com/in/atharv-yadav-177bb72aa">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
   </a>
