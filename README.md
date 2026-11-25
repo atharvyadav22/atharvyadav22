@@ -130,4 +130,6 @@ Backend and Kotlin Multiplatform engineer (B.Tech CSE, 2027) focused on **reliab
 ---
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=atharvyadav22&label=Profile%20Views&color=blueviolet"/>
+
+...
 </p>
